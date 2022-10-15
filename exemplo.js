@@ -40,7 +40,7 @@ function adicionarLinha() {
             concluida: false
         })
     } else {
-        alert('Digite algum Nó')
+        alert('Digite algum Nó!!')
     }
 
     input.value = ''
